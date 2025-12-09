@@ -1,4 +1,5 @@
 streamlit
 scikit-learn
-numpy
 SpeechRecognition
+PyAudio
+numpy
